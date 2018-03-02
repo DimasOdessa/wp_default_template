@@ -1,11 +1,8 @@
 {
   "name": "SWP/test",
-  "description": "test",
-  "version": "1",
+  "description": "Basic template files",
+  "version": "1.0.0",
   "require": {
     "PHP": ">=5.6"
-  },
-  "autoload": {
-    "classmap": ["/"]
   }
 }
