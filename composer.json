@@ -1,0 +1,11 @@
+{
+  "name": "SWP/test",
+  "description": "test",
+  "version": "1",
+  "require": {
+    "PHP": ">=5.6"
+  },
+  "autoload": {
+    "classmap": ["/"]
+  }
+}
